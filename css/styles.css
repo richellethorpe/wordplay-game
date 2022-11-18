@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(195, 229, 250);
+  margin-left: 20px;
+}
+
+.hidden {
+  display: none;
+}
